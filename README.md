@@ -29,7 +29,7 @@
 
 ## 📜 Abstract
 
-Elaina-SSRF-Probe is not merely a script; it is a sophisticated framework engineered for the systematic identification, analysis, and validation of Server-Side Request Forgery (SSRF) vulnerabilities. Moving beyond simple payload injection, SSRF-Probe employs a synergistic blend of traditional security testing, advanced machine learning for intelligent response analysis, and a comprehensive arsenal of Web Application Firewall (WAF) bypass techniques. The framework is designed to emulate a human expert's thought process, combining rapid discovery with deep, contextual analysis to uncover even the most subtly concealed SSRF flaws in modern web applications and cloud environments.
+Elaina-SSRF-Probe is not merely a script; it is a sophisticated framework engineered for the systematic identification, analysis, and validation of Server-Side Request Forgery (SSRF) vulnerabilities. Moving beyond simple payload injection, Elaina-SSRF-Probe employs a synergistic blend of traditional security testing, advanced machine learning for intelligent response analysis, and a comprehensive arsenal of Web Application Firewall (WAF) bypass techniques. The framework is designed to emulate a human expert's thought process, combining rapid discovery with deep, contextual analysis to uncover even the most subtly concealed SSRF flaws in modern web applications and cloud environments.
 
 ---
 
