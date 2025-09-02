@@ -98,7 +98,7 @@ SSRF-Probe is developed for Python 3.8+ and leverages several powerful libraries
 # 1. Clone the repository
 ```
 git clone https://github.com/yuri08loveelaina/Elaina-SSRF-Probe.git
-cd SSRF-Probe
+cd Elaina-SSRF-Probe
 ```
 # 2. Create and activate a virtual environment
 ```
